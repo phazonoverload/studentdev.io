@@ -32,7 +32,7 @@ body {
           justify-content: space-between;
 }
 .hero nav a.logo img {
-  height: 2rem;
+  width: 9em;
   display: block;
 }
 .hero nav ul li {
