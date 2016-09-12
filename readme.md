@@ -51,7 +51,7 @@ Views describe the pages which users see and interact with. Here's the noteworth
 
 ## Adding new content
 
-/views/speaking/upcoming.jade is fairly self-explanatory. It's written in Markdown. 
+/views/index.jade is fairly self-explanatory. It's written in Markdown. 
 
 1. Start the local server with `roots watch`
 2. Add your content using [Markdown](https://daringfireball.net/projects/markdown/) indented inside of the `:marked` section
